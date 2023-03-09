@@ -17,7 +17,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 
 <br>
 <p>Clique aqui para visualizar:<br>
-<a href:"https://brunodevbbf.github.io/Music/">Visualizar</a></p>
+<a href="https://brunodevbbf.github.io/Music/">Visualizar</a></p>
 <hr>
 
 ## 🚀 Tecnologias
